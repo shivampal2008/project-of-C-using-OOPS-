@@ -1,0 +1,11 @@
+1|What does OOP stand for?|Object Oriented Programming|Open Office Package|Only One Protocol|Optional Output Program|A
+2|Which keyword defines a class in C++?|object|class|define|struct|B
+3|Which is a feature of OOP?|Compilation|Linking|Encapsulation|Interpretation|C
+4|What is Inheritance?|Copying code from a file|Using global variables|Calling a function|Deriving a new class from existing class|D
+5|Which access specifier hides data from outside?|public|internal|protected|private|D
+6|What is a Constructor?|A function called when object is destroyed|A global function|A static variable|A function called when object is created|D
+7|Which allows same function name with different parameters?|Inheritance|Encapsulation|Function Overloading|Abstraction|C
+8|Which operator is used for dynamic memory in C++?|malloc|alloc|create|new|D
+9|What is output of: cout << 15/4 in C++?|3.75|4|Error|3|D
+10|Which correctly declares a pointer to int?|int p;|int &p;|*int p;|int *p;|D
+11|what is your name|shivam|nishi mam|shivam maurya |nothing|B
