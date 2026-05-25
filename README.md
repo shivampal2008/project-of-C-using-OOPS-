@@ -1,1 +1,2 @@
 # project-of-C-using-OOPS-
+A menu-driven Online Examination System developed in C++ as a 2nd Semester OOP project. The system allows students to register, login, attempt MCQ-based exams, and view results. Admins can manage the question bank — add, view, and delete questions — and monitor all students and results. All data is stored persistently using File Handling (students.txt, questions.txt, results.txt). The project demonstrates all core OOP concepts including Classes & Objects, Constructors, Inheritance, Encapsulation, Polymorphism, and Function Overloading.
